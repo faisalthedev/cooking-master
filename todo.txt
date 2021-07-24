@@ -1,0 +1,10 @@
+1. Build the UI
+--- Header, search icon optional
+2. Functionality
+--- Show the full list of Ingredients after click on menu card
+--- Have to shown on the same page
+
+## To get Bonus
+1. forEach loop
+2. "no result found" message
+3. Show item image
